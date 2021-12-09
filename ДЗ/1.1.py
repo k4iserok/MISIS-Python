@@ -25,3 +25,4 @@ if (sec > 1) and (sec < 5):
     print(sec, 'секунды')
 if sec >= 5:
     print(sec, 'секунд')
+print('Проверка GIT')
