@@ -24,8 +24,7 @@ class Student:
 
 
 st_1 = Student()
-print('1: ', st_1.name, st_1.age, st_1.groupNumber,
-      '\n')
+print('1: ', st_1.name, st_1.age, st_1.groupNumber,'\n')
 
 st_2 = Student('Ruslan', '11A', 18)
 print('2: ', st_2.getName(), st_2.getAge(), st_2.getGroupNumber(), '\n')
